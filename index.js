@@ -111,9 +111,9 @@ const port = process.env.PORT || 9090;
   }
   });
   console.log('Plugins installed successful ✅')
-  console.log('GOTAR-XMD CONNECTED SUCCESSFULLY ✅')
+  console.log('ALISON-BOT CONNECTED SUCCESSFULLY ✅')
   
-  let up = `*Hello there GOTAR-XMD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet GOTAR-XMD WhatsApp Bot.\n\n *Thanks for using GOTAR-XMD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbAOpMmAInPoTescPr0y\n\n- *YOUR PREFIX:* = ${prefix}\n\n- *BOT MODE:* = ${config.MODE}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/gotar/GOTAR-XMD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ \ud83d\udda4`;
+  let up = `*Hello there ALISON-BOT User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet GOTAR-XMD WhatsApp Bot.\n\n *Thanks for using ALISON-BOT\ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbAOpMmAInPoTescPr0y\n\n- *YOUR PREFIX:* = ${prefix}\n\n- *BOT MODE:* = ${config.MODE}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/gotar/GOTAR-XMD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/82b8gr.jpg` }, caption: up })
   }
   })
