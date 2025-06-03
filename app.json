@@ -1,8 +1,8 @@
 {
-  "name": "GOTAR-XMD",
+  "name": "ALISON-TECH",
   "description": "Javascript WhatsApp bot made ɢᴏᴛᴀʀ ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/82b8gr.jpg",
-  "keywords": ["GOTAR-XMD"],
+  "keywords": ["ALISON-TECH"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
+      "value": "ALISON-TECH"
     }, 
       
     "PREFIX": {
