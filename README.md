@@ -40,7 +40,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/Dizzy-web/ALISON-BOT/fork"><img title="ALISON-BOT" src="https://img.shields.io/badge/FORK-GOTAR%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Dizzy-web/ALISON-BOT/fork"><img title="ALISON-BOT" src="https://img.shields.io/badge/FORK-ALISON%20BOT-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
