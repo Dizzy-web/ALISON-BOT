@@ -65,7 +65,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁GOTAR-XMD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁ALISON-BOT DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -73,14 +73,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/gotartech/GOTAR-XMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Dizzy-web/ALISON-BOT)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=gotartech/GOTAR-XMD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20GOTAR-XMD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repositoryDizzy-web/ALISON-BOT&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ALISON-BOT&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
@@ -211,22 +211,22 @@ jobs:
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME GOTAR TECH࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALISON TECH࿐➺
 
 <p align="">
-<a href='https://wa.me/18494967948?text=*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝗚𝗢𝗧𝗔𝗥+𝗫𝗠𝗗+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/255611425468?text=*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝗚𝗢𝗧𝗔𝗥+𝗫𝗠𝗗+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## 🪀 WHATSAPP CHANNEL 
 STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAOpMmAInPoTescPr0y)
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029ValEgpc89inYloA2YW10)
 
 ## 🪀 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/KSEIThE3vIS3fVQZTyDia2)
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/GVIIpMLKzk42bcIc2yqoBu)
 
  
 
